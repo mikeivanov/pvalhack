@@ -29,7 +29,7 @@ ui <- fluidPage(
                   <p>See also</p>
                   <ul>
                     <li><a href='https://github.com/mikeivanov/pvalhack/'>Source code</a></li>
-                    <li><a href='https://mikeivanov.com/pvalhack/'>A brief explanation</a></li>
+                    <li><a href='https://mikeivanov.com/posts/2022-08-17-pvalhack/'>A brief explanation</a></li>
                     <li><a href='https://arxiv.org/abs/1603.07532'>The original paper</a></li>
                   </ul>")
         ),
